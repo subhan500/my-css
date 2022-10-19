@@ -55,7 +55,6 @@ body{
     /* transform: rotate(360deg); */
     transform: translateY(-10px);
     transform: scale(1.1);
-    background-color: red;
 }
 
 .hero{
